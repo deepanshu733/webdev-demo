@@ -1,4 +1,4 @@
 # webdev-demo
 this is my first git repository.
 <br>
-author - deepanshu bhardwaj
+author - deepanshu webdev
